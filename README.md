@@ -13,8 +13,8 @@ With the data given, I want you to import it through pandas "*df = pd.read_csv("
 Once here first read the DataFrame using "*print(df.head())*" this is so you understand the data (you can delete this line after)
 
 You will start here! 
-
-# Create a python Script which uses K-means algorithm to sort for 3 coins, then research and figure what each coin is! 
+---
+Create a python Script which uses K-means algorithm to sort the mixed data into *3 individual files*, then research and figure what each coin is! 
 
 We touched on k-means in Lecture 2 this is a practical example of it.
 
